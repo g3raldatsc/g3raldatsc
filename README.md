@@ -1,4 +1,10 @@
-# Keahlian Saya di Bidang Data Science:
+``` bash
+Halo, Semuanya!
+Perkenalkan Saya Gerald Jepedro Sitorus. Panggil saja Gerald.
+Saya mempunyai minat di bidang keilmuan data atau data science.
+```
+
+# Keahlian
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -7,11 +13,4 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false)<br/>
-
----
-
-
----
-[![](https://visitcount.itsvg.in/api?id=g3raldatsc&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false)<br/
