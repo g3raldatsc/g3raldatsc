@@ -2,9 +2,11 @@
 Halo, Semuanya!
 Perkenalkan Saya Gerald Jepedro Sitorus. Panggil saja Gerald.
 Saya mempunyai minat di bidang keilmuan data atau data science.
+Saya sudah paham betul bagaimana algoritma Machine Learning.
+Sekian saja, Terima kasih.
 ```
 
-# Keahlian
+# Kesukaan
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -18,5 +20,8 @@ Saya mempunyai minat di bidang keilmuan data atau data science.
 ---
 
 <p align="center">
+  <img src="https://media.tenor.com/M3n7FimDb4YAAAAm/anime-dance.webp" width="165" alt="Anime Gif">
   <img src="https://media.tenor.com/ROZrff3gfMwAAAAm/evernight-dance.webp" width="200" alt="Anime Gif">
+  <img src="https://media.tenor.com/uG9H9qWU-TwAAAAm/bocchi-bocchi-the-rock.webp" width="250" alt="Anime Gif">
+  <img src="https://media.tenor.com/DmDTv2a2rfEAAAAm/omaewamou-anime.webp" width="150" alt="Anime Gif">
 </p>
