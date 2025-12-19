@@ -13,4 +13,10 @@ Saya mempunyai minat di bidang keilmuan data atau data science.
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false)<br/
+![](https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false)
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/ROZrff3gfMwAAAAm/evernight-dance.webp" width="200" alt="Anime Gif">
+</p>
