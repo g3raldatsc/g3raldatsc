@@ -1,42 +1,39 @@
 <div align="center">
 
-# 🕺 Welcome to g3raldatsc's Neon District 🕺
+# Gerald Jepedro Sitorus
+**Informatics Student @ University of Jember**
 
-<img src="https://capsule-render.vercel.app/render?type=distorted&color=0:FF00FF,100:00FFFF&height=200&section=header&text=G3RALDATSC&fontSize=80&fontAlignY=35&animation=twinkling&desc=Vibing%20in%20the%20Dark&descAlignY=60" width="100%"/>
-
----
-
-### 🌌 System Status: VIBING
-"Simplicity is the ultimate sophistication, but neon makes it cooler."
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Building+software+solutions;Data+Science+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-### 🍸 Let's Connect (The VIP Lounge)
-
-| Platform | Link |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" /> | [**@grld.33**](https://www.instagram.com/grld.33) |
-| <img src="https://img.shields.io/badge/TikTok-00FFFF?style=for-the-badge&logo=tiktok&logoColor=black" /> | [**@.kuantitatif_**](https://www.tiktok.com/@.kuantitatif_) |
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | [**in/gerald-jepedro-sitorus**](https://www.linkedin.com/in/gerald-jepedro-sitorus-064445381) |
-| <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> | `redbeans85_` |
+### ⚡ About Me
+Mahasiswa **Informatika** dari **Fakultas Ilmu Komputer, Universitas Jember**.  
+Fokus pada pengembangan perangkat lunak, pengolahan data, dan pemecahan masalah kompleks melalui kode yang efisien.
 
 ---
 
-### ⚡ Power Levels (GitHub Stats)
+### 🛠️ Core Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-00F2FF?style=for-the-badge&logo=target&logoColor=black" /> <img src="https://img.shields.io/badge/Data_Visualization-20BEFF?style=for-the-badge&logo=googlelookerstudio&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Web_Development-FF33FF?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Big_Data-00F2FF?style=for-the-badge&logo=databricks&logoColor=black" /> <img src="https://img.shields.io/badge/Mathematics-00599C?style=for-the-badge&logo=wolfram&logoColor=white" />
 
+---
+
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g3raldatsc&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" alt="Gerald's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3raldatsc&layout=compact&theme=radical&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=g3raldatsc&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FF&icon_color=00F2FF&text_color=FFFFFF&bg_color=0D1117" alt="Gerald's Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3raldatsc&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-### 🕹️ Current Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=g3raldatsc&theme=radical&background=0D1117&stroke=00FFFF&fire=FF00FF" alt="GitHub Streak" />
-
----
-
-<img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/master/assets/line-neon.gif" width="100%">
+### 🤝 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/grld.33)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.kuantitatif_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-jepedro-sitorus-064445381)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
+<br>
+`Discord: redbeans85_`
 
 </div>
