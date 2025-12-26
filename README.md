@@ -8,21 +8,22 @@ That's all for now. Thank you.
 
 ---
 
-## 💭 About me~
+## About me
 
 | Category | Details |
 | :--- | :--- |
-| **Focus** | AI Research & Application (especially in Generative Models) |
-| **Currently learning** | LLMs, Diffuser, and RVC |
-| **Current education** | AI Engineering Major at Sepuluh Nopember Institute of Technology |
-| **Programming language** | Python & Javascripts (sometime) |
-| **My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡** | Kaoruko Waguri 🍓 (from [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku)) |
-| **Favorites** | Sweet Foods, Piano & Violin, Something cute |
-| **Fav music vibe** | Classical & Romantic 🎼 |
+| **Focus** | Data Mining, Machine Learning & Predictive Modeling |
+| **Currently learning** | MLOps, NLP (Natural Language Processing), SQL, & Cloud Computing |
+| **Current education** | Data Science & Analytics Major |
+| **Programming language** | Python, R, C++ (Very Bad), JS, & Bash |
+| **Tools & Libs** | Pandas, Scikit-Learn, TensorFlow, Tableau |
+| **Favorites** | Clean Datasets, Nasgor Goreng, Visualize with any Library |
+| **Fav music vibe** | no vibes here, I just like K-On music! |
 
 ---
 
-## Favorite
+## The Tools I Master Most
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -34,6 +35,8 @@ That's all for now. Thank you.
 ![](https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false)
 
 ---
+
+## My Vibes Literally
 
 <div align="center">
   <img src="https://media1.tenor.com/m/fSCh-1OpQiwAAAAd/japan-anime.gif" width="100%" height="450px">
