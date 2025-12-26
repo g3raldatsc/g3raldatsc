@@ -19,9 +19,6 @@ Sekian saja, Terima kasih.
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/M3n7FimDb4YAAAAm/anime-dance.webp" width="165" alt="Anime Gif">
-  <img src="https://media.tenor.com/ROZrff3gfMwAAAAm/evernight-dance.webp" width="200" alt="Anime Gif">
-  <img src="https://media.tenor.com/uG9H9qWU-TwAAAAm/bocchi-bocchi-the-rock.webp" width="250" alt="Anime Gif">
-  <img src="https://media.tenor.com/DmDTv2a2rfEAAAAm/omaewamou-anime.webp" width="150" alt="Anime Gif">
-</p>
+<div align="center">
+  <img src="https://media1.tenor.com/m/fSCh-1OpQiwAAAAd/japan-anime.gif" width="100%">
+</div>
