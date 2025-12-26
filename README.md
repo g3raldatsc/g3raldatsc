@@ -34,11 +34,11 @@ That's all for now. Thank you.
 
 <table>
   <tr>
-    <td width="80%">
+    <td width="70%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%">
     </td>
-    <td width="100%">
-      <img src="https://media.tenor.com/a5vLGmu62gAAAAAM/daitaku-helios-daitaku.gif" alt="My Image" width="50%">
+    <td width="30%">
+      <img src="https://media.tenor.com/a5vLGmu62gAAAAAM/daitaku-helios-daitaku.gif" alt="My Image" width="100%">
     </td>
   </tr>
 </table>
