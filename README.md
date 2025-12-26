@@ -20,5 +20,5 @@ Sekian saja, Terima kasih.
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/fSCh-1OpQiwAAAAd/japan-anime.gif" width="80%">
+  <img src="https://media1.tenor.com/m/fSCh-1OpQiwAAAAd/japan-anime.gif" width="100%">
 </div>
