@@ -1,12 +1,28 @@
 ``` bash
-Halo, Semuanya!
-Perkenalkan Saya Gerald Jepedro Sitorus. Panggil saja Gerald.
-Saya mempunyai minat di bidang keilmuan data atau data science.
-Saya sudah paham betul bagaimana algoritma Machine Learning.
-Sekian saja, Terima kasih.
+Hello, everyone!
+Let me introduce myself. I'm Gerald Jepedro Sitorus. Just call me Gerald.
+I'm interested in data science.
+I have a thorough understanding of machine learning algorithms.
+That's all for now. Thank you.
 ```
 
-# Favorite
+---
+
+## 💭 About me~
+
+| Category | Details |
+| :--- | :--- |
+| **Focus** | AI Research & Application (especially in Generative Models) |
+| **Currently learning** | LLMs, Diffuser, and RVC |
+| **Current education** | AI Engineering Major at Sepuluh Nopember Institute of Technology |
+| **Programming language** | Python & Javascripts (sometime) |
+| **My sweetest waifu ⸜(｡˃ ᵕ ˂ )⸝♡** | Kaoruko Waguri 🍓 (from [The Fragrant Flower Blooms with Dignity](https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku)) |
+| **Favorites** | Sweet Foods, Piano & Violin, Something cute |
+| **Fav music vibe** | Classical & Romantic 🎼 |
+
+---
+
+## Favorite
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
