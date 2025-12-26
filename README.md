@@ -32,7 +32,16 @@ That's all for now. Thank you.
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://media.tenor.com/a5vLGmu62gAAAAAM/daitaku-helios-daitaku.gif" alt="My Image" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
