@@ -34,7 +34,7 @@ That's all for now. Thank you.
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="80%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%">
     </td>
     <td width="100%">
