@@ -48,5 +48,5 @@ That's all for now. Thank you.
 ## My Vibes Literally
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/fSCh-1OpQiwAAAAd/japan-anime.gif" width="100%" height="450px">
+  <img src="https://i.pinimg.com/originals/5f/13/1f/5f131fb3382dd973e3c69fe9d87fcabf.gif" width="100%" height="450px">
 </div>
