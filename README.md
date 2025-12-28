@@ -16,7 +16,7 @@ That's all for now. Thank you.
 | **Currently learning** | MLOps, NLP (Natural Language Processing), SQL, & Cloud Computing |
 | **Current education** | Data Science & Analytics Major |
 | **Programming language** | Python, R, C++ (Very Bad), JS, & Bash |
-| **Tools & Libs** | Pandas, Scikit-Learn, TensorFlow, Tableau |
+| **Tools & Libs** | Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, Tableau, Jupyter NoteBook |
 | **Favorites** | Clean Datasets, Nasgor Goreng, Visualize with any Library |
 | **Fav music vibe** | no vibes here, I just like K-On music! |
 
