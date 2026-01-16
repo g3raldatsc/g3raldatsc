@@ -1,7 +1,7 @@
 ``` bash
 Hello, everyone!
 Let me introduce myself. I'm Gerald Jepedro Sitorus. Just call me Gerald.
-I'm interested in data science.
+I'm interested in Data Science.
 I have a thorough understanding of machine learning algorithms.
 That's all for now. Thank you.
 ```
