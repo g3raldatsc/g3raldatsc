@@ -12,7 +12,7 @@ That's all for now. Thank you.
 
 | Category | Details |
 | :--- | :--- |
-| **Focus** | Data Mining, Machine Learning & Predictive Modeling |
+| **Focus** | Machine Learning & Data Scientist |
 | **Currently learning** | MLOps, NLP (Natural Language Processing), SQL, & Cloud Computing |
 | **Current education** | Data Science & Analytics Major |
 | **Programming language** | Python, R, C++ (Very Bad), JS, & Bash |
