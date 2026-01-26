@@ -48,5 +48,5 @@ That's all for now. Thank you.
 ## Enjoy
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d6/bd/3a/d6bd3a31815ff2f8c97b7c6b3928ee2b.gif" width="100%" height="450px">
+  <img src="https://i.pinimg.com/originals/96/2f/3e/962f3e5d3c86c6053bfdda8511a21431.gif" width="100%" height="450px">
 </div>
