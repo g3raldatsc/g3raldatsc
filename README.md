@@ -13,12 +13,12 @@ That's all for now. Thank you.
 | Category | Details |
 | :--- | :--- |
 | **Focus** | Machine Learning & Data Scientist |
-| **Currently learning** | MLOps, NLP (Natural Language Processing), SQL, & Cloud Computing |
-| **Current education** | Data Science & Analytics Major |
-| **Programming language** | Python, R, C++ (Very Bad), JS, & Bash |
-| **Tools & Libs** | Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, Tableau, Jupyter NoteBook |
-| **Favorites** | Clean Datasets, Nasgor Goreng, Visualize with any Library |
-| **Fav music vibe** | no vibes here, I just like K-On music! |
+| **Currently Learning** | NLP, Data Visualization, Data Wragling, & Syntax on Python Library |
+| **Completed Learning** | Linear Algebra, Statistics, Python Fundamental, & CLI |
+| **Programming Language** | Python & JS |
+| **Tools & Libs** | NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Tableau, Jupyter NoteBook |
+| **Favorites** | Learning |
+| **Fav Music Vibe** | Slow |
 
 ---
 
@@ -45,7 +45,7 @@ That's all for now. Thank you.
 
 ---
 
-## My Vibes Literally
+## Enjoy
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/5f/13/1f/5f131fb3382dd973e3c69fe9d87fcabf.gif" width="100%" height="450px">
