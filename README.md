@@ -20,19 +20,6 @@ That's all for now. Thank you.
 
 ---
 
-<table>
-  <tr>
-    <td width="70%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=g3raldatsc&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%">
-    </td>
-    <td width="60%">
-      <img src="https://i.pinimg.com/originals/b3/ee/44/b3ee440f6611a92ada338311df31ef77.gif" alt="My Image" width="100%">
-    </td>
-  </tr>
-</table>
-
----
-
 ## Enjoy
 
 <div align="center">
