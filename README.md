@@ -12,13 +12,11 @@ That's all for now. Thank you.
 
 | Category | Details |
 | :--- | :--- |
-| **Focus** | Machine Learning & Data Scientist |
-| **Currently Learning** | NLP, Data Visualization, Data Wragling, & Syntax on Python Library |
-| **Completed Learning** | Linear Algebra, Statistics, Python Fundamental, & CLI |
-| **Programming Language** | Python & JS |
-| **Tools & Libs** | NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Tableau, Jupyter NoteBook |
-| **Favorites** | Learning |
-| **Fav Music Vibe** | Slow |
+| **Focus** | Data Science |
+| **Currently Learning** | Data Mining |
+| **Programming Language** | Python & R |
+| **Tools** | Python, R Studio, Tableau, SPPS, Kaggle |
+| **Fav Music Vibe** | K-On |
 
 ---
 
