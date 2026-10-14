@@ -22,5 +22,5 @@ That's all for now. Thank you.
 ## Enjoy
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/ee/7c/ce/ee7cce0df80c90749b95d42750e108f3.jpg" width="200%" height="400px">
+  <img src="https://i.pinimg.com/736x/ee/7c/ce/ee7cce0df80c90749b95d42750e108f3.jpg" width="200%" height="300px">
 </div>
