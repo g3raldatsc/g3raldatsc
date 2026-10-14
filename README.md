@@ -16,12 +16,11 @@ That's all for now. Thank you.
 | **Currently Learning** | Data Mining |
 | **Programming Language** | Python & R |
 | **Tools** | Python, R Studio, Tableau, SPPS, Kaggle |
-| **Fav Music Vibe** | K-On |
 
 ---
 
 ## Enjoy
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/83/6c/47/836c47d440e090f953d46ae58d2d217e.gif" width="200%" height="400px">
+  <img src="https://i.pinimg.com/736x/ee/7c/ce/ee7cce0df80c90749b95d42750e108f3.jpg" width="200%" height="400px">
 </div>
