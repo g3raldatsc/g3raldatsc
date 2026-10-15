@@ -1,9 +1,9 @@
 ``` bash
-Hello, everyone!
-Let me introduce myself. I'm Gerald Jepedro Sitorus. Just call me Gerald.
+Greetings!
+I'm Gerald Jepedro Sitorus. Just call me Gerald.
 I'm interested in Data Science.
 I have a thorough understanding of machine learning algorithms.
-That's all for now. Thank you.
+That's all. Thank you.
 ```
 
 ---
@@ -15,7 +15,7 @@ That's all for now. Thank you.
 | **Focus** | Data & Statistics |
 | **Currently Learning** | Data Mining |
 | **Programming Language** | Python & R |
-| **Tools** | Python, R Studio, Tableau, SPPS, Kaggle |
+| **Tools** | Python, R Studio, Tableau, SPPS, Jamovi, JASP, Stata |
 
 ---
 
