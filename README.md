@@ -12,7 +12,7 @@ That's all for now. Thank you.
 
 | Category | Details |
 | :--- | :--- |
-| **Focus** | Data Science |
+| **Focus** | Data & Statistics |
 | **Currently Learning** | Data Mining |
 | **Programming Language** | Python & R |
 | **Tools** | Python, R Studio, Tableau, SPPS, Kaggle |
